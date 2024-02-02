@@ -1,7 +1,6 @@
 pragma solidity ^0.8.10;
 
 import "ds-test/test.sol";
-import "../Shop/ShopHack.sol";
 import "../Shop/ShopFactory.sol";
 import "../Ethernaut.sol";
 import "./utils/vm.sol";

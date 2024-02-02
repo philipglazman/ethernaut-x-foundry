@@ -1,7 +1,6 @@
 pragma solidity ^0.8.10;
 
 import "ds-test/test.sol";
-import "../Force/ForceHack.sol";
 import "../Force/ForceFactory.sol";
 import "../Ethernaut.sol";
 import "./utils/vm.sol";

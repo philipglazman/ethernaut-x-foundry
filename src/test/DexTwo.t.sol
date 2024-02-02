@@ -1,7 +1,6 @@
 pragma solidity ^0.8.10;
 
 import "ds-test/test.sol";
-import "../DexTwo/DexTwoHack.sol";
 import "../DexTwo/DexTwoFactory.sol";
 import "../Ethernaut.sol";
 
